@@ -55,7 +55,7 @@ Node<String> node3 = new Node<>("kiwi");
 node1.next = node2;
 node2.next = node3;
 
-// banana -> mango -> kiwi
+// banana -> mango -> kiwif
 
 ECSource.getNodeValue(node1, 0); // "banana"
 ```
